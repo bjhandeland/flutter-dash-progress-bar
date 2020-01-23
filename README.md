@@ -1,2 +1,1 @@
-# flutter-dash-progress-bar
-Dash progress bar for IntelliJ IDEs
+A Dash progress bar for IntelliJ IDEs, inspired by [https://github.com/batya239/NyanProgressBar](https://github.com/batya239/NyanProgressBar).
