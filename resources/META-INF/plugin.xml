@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>some.awesme</id>
   <name>Dash Progress Bar</name>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <vendor email="bjhandeland@gmail.com">Bjarne Handeland</vendor>
 
   <description><![CDATA[
@@ -9,6 +9,7 @@
     ]]></description>
 
   <change-notes><![CDATA[
+      <em>1.0.2 rebuild plugin to work with Android Studio.</em><br>
       <em>1.0.1 minor change to dash image to make it stand out more.</em><br>
       <em>1.0.0 first initial release for Flutter Europe.</em><br>
     ]]>
